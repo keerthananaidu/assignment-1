@@ -1,0 +1,31 @@
+what is python?
+
+python is an interpreted, object-oriented, high-level programming language. It is used by many well known companies developers.
+
+what are the applications of python?
+
+web development
+game development
+machine learning
+software development
+artificial intelligence
+
+variables in python and its types.
+
+numbers
+strings
+list
+tuple
+
+functions in python.
+
+print
+minimum and maximum value
+
+operators in python
+
+Arithmetic operators
+Assignment operators
+Comparison operators
+Logical operators
+
